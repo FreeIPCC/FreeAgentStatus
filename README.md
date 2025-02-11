@@ -59,14 +59,14 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 😄关于源码、付费、许可（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）：
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
 ## 其它语言
 英语
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
 
 日语
-コールセンター、コールセンターシステム、電話システム、カスタマーサービスシステム、作業指示システム、インテリジェントアウトバウンド、インテリジェントアウトバウンドシステム、コールセンターシステム、人工知能、インバウンドロボット、大型モデルロボット、インテリジェントアウトバウンド通話、オープンソースコールセンターシステム、アウトバウンド通話、カスタマーサービスセンター、オンラインカスタマーサービス、大型モデル、オープンソースコールセンターシステム！！！
+コールセンター、コールセンターシステム、電話システム、カスタマーサービスシステム、作業指示システム、インテリジェントアウトバウンド、インテリジェントアウトバウンドシステム、コールセンターシステム、人工知能、インバウンドロボット、大型モデルロボット、インテリジェントアウトバウンド通話、オープンソースコールセンターシステム、アウトバウンド通話、カスタマーサービスセンター、オンラインカスタマーサービス、大型モデル、オープンソースコールセンターシステム！
 
 葡萄牙语
 Call center, sistema de call center, sistema de telefonia, sistema de atendimento ao cliente, sistema de trabalho, chamada inteligente saída, sistema de chamada inteligente saída, sistema de call center, inteligência artificial, robô de entrada, robô de grande modelo, chamada telefônica inteligente saída, sistema de call center open-source, chamada telefônica saída, centro de atendimento, atendimento online, grande modelo, sistema de call center open-source!!!
