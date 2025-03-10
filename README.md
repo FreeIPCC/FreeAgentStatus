@@ -1,5 +1,5 @@
 # FreeAgentStatus在线客服状态与电话坐席状态同步、统一排队
-LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,在线客服，大模型聊天机器人，在线客服转人工，电话坐席、网页坐席、微信公众号坐席等坐席状态同步，统一排队!!!!!!!!
+LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,在线客服，大模型聊天机器人，在线客服转人工，电话坐席、网页坐席、微信公众号坐席等坐席状态同步，统一排队!!!
 Large-model chatbot with the capability to transfer online customer service to human agents, featuring synchronized agent statuses across phone agents, web agents, WeChat Official Account agents, and others, with unified queuing!!!
 
 ## 😄完整性：前端、后端、数据库，齐全；功能全开、不设限；不分什么社区版、商业版！
@@ -18,7 +18,7 @@ Large-model chatbot with the capability to transfer online customer service to h
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.03.09最新demo链接enjoy😄：
+## 2025.03.10最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -44,17 +44,18 @@ http://118.25.192.13:80
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ## 界面截图
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0ea5f4a8-1a2c-49c7-b818-96d3422d4455)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/ed6da3bf-6390-4627-afe7-1cf52a8536a9)
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
+![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
 ![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
+![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
+![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
+![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
+![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 ![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
 ![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
 ![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
 ![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
 ![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
