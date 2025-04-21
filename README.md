@@ -25,6 +25,10 @@ http://118.25.192.13:8822/cc
 
 2，工单：(demo/123456)
 http://118.25.192.13:80
+
+注意：如果页面打不开，是因为demo页面正在频受DDoS攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/ec456b16-c050-4cad-b666-491203ea31a4)
+
 ## 开发语言：Java Python为主
 ## 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 
