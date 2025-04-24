@@ -21,10 +21,10 @@ LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,
 ## 2025.04.24，最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
-http://118.25.192.13:8822/cc
+http://124.220.48.38:8822/cc
 
 2，工单：(demo/123456)
-http://118.25.192.13:80
+http://124.220.48.38:80
 
 注意：如果页面打不开，是因为demo页面正在频受DDoS攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/ec456b16-c050-4cad-b666-491203ea31a4)
