@@ -18,7 +18,7 @@ LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.05.07，最新demo链接enjoy😄：
+## 2025.05.08，最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
