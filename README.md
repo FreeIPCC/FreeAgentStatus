@@ -69,9 +69,13 @@ http://124.220.48.38:80
 
 下图是随机抽取的需求对接的群：
 
+![image](https://github.com/user-attachments/assets/9abb6028-239d-4e17-8314-e0f3258d2395)
+![image](https://github.com/user-attachments/assets/7c358cb1-aa9e-4279-9e09-9b53a2c63a61)
+![image](https://github.com/user-attachments/assets/51e22d52-9d81-4549-a699-4bbf81e21242)
+![image](https://github.com/user-attachments/assets/96fc0164-d3cd-4a7c-bb1c-9f2b49670ec3)
+![image](https://github.com/user-attachments/assets/d973ab28-f83b-4bdd-bf9e-3f0130811eaa)
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/9aeae305-7eaa-4bb7-a524-66e46216e51a)
-
+![image](https://github.com/user-attachments/assets/a9a519c1-02ba-455c-a53a-bb98de8551c5)
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 ## 😄关于源码、付费、许可（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）：
