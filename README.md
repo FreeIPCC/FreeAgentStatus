@@ -1,9 +1,10 @@
 # FreeAgentStatus在线客服状态与电话坐席状态同步、统一排队
 LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,online chat,chatbot,LangChain,在线客服，大模型聊天机器人，在线客服转人工，电话坐席、网页坐席、微信公众号坐席等坐席状态同步，统一排队!Large-model chatbot with the capability to transfer online customer service to human agents, featuring synchronized agent statuses across phone agents, web agents, WeChat Official Account agents, and others, with unified queuing!!!
 
-## 😄完整性：前端、后端、数据库，齐全；功能全开、不设限；不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
+## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
+## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 目标
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；
